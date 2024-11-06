@@ -1,0 +1,41 @@
+# Flask: Lightweight web server for the C2 interface
+Flask==2.0.2
+
+# Flask-SocketIO: WebSocket support for real-time communication with hooked browsers
+Flask-SocketIO==5.3.0
+
+# SQLAlchemy: ORM for database management and interactions
+SQLAlchemy==1.4.25
+
+# SQLite: Lightweight, file-based database
+sqlite==3.36.0
+
+# google-cloud-pubsub: Interface with Google Cloud Pub/Sub if required for further integrations
+google-cloud-pubsub==2.7.0
+
+# google-cloud-bigquery: Interface with Google Cloud BigQuery for analytics
+google-cloud-bigquery==2.34.2
+
+# requests: For making HTTP requests within Python
+requests==2.26.0
+
+# websockets: For managing WebSocket connections if using pure Python WebSockets
+websockets==10.0
+
+# cryptography: For implementing secure encryption of sensitive data
+cryptography==3.4.8
+
+# Python-dotenv: For managing environment variables securely
+python-dotenv==0.19.0
+
+# gevent: Enables asynchronous network handling, useful for real-time events in Flask-SocketIO
+gevent==21.8.0
+
+# eventlet: Optional; another asynchronous framework for Flask-SocketIO
+eventlet==0.31.0
+
+# Werkzeug: Standard dependency for Flask; handles HTTP interactions
+Werkzeug==2.0.2
+
+# gunicorn: Production-ready WSGI server for deploying Flask applications
+gunicorn==20.1.0
