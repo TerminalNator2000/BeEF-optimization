@@ -1,3 +1,7 @@
+## To install all dependencies at once via $Bash
+  # $ pip install -r dependencies.txt
+
+
 # Flask: Lightweight web server for the C2 interface
 Flask==2.0.2
 
