@@ -5,7 +5,7 @@ Flask==2.0.2
 Flask-SocketIO==5.3.0
 
 # SQLAlchemy: ORM for database management and interactions
-SQLAlchemy==1.4.25
+SQLAlchemy==1.4.25 
 
 # SQLite: Lightweight, file-based database
 sqlite==3.36.0
