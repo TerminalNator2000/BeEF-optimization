@@ -54,7 +54,7 @@ To match and optimize all of BeEF's functionality, we’ll build this as a modul
 
 
 
-### Further Enhancements**
+### **Further Enhancements**
 
 - **WebSockets**: Switch from REST endpoints to WebSockets for real-time communication.
 - **Command Queue**: Implement a queuing system to manage commands and responses asynchronously.
